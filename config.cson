@@ -9,6 +9,7 @@
       "Thumbs.db"
       "desktop.ini"
       "node_modules"
+      "dist"      
     ]
     projectHome: "/home/ksindi/git"
     telemetryConsent: "no"
