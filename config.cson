@@ -11,7 +11,7 @@
       "node_modules"
       "dist"      
     ]
-    projectHome: "/home/ksindi/git"
+    projectHome: "/home/kamil/git"
     telemetryConsent: "no"
   editor:
     fontSize: 17
