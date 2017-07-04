@@ -1,0 +1,14 @@
+autocomplete-python
+highlight-selected
+linter-flake8
+pigments
+busy-signal
+intentions
+linter-sass-lint
+git-blame
+linter
+linter-ui-default
+git-time-machine
+linter-eslint
+minimap
+
