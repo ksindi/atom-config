@@ -1,13 +1,18 @@
 # atom-config
 
+Install atom
+
 ```bash
 sudo add-apt-repository ppa:webupd8team/atom
 sudo apt update
-sudo apt install atom silversearcher-ag git
-pip install flake8
+sudo apt install atom
+```
 
-git clone git@github.com:ksindi/atom-config.git ~/.atom
-cd ~/.atom
+Clone and symlink:
+
+```bash
+git clone git@github.com:ksindi/atom-config.git
+ln -s atom-config/ ~/.atom
 apm install --packages-file my-packages.txt
 ```
 
