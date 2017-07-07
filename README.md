@@ -8,7 +8,7 @@ sudo apt update
 sudo apt install atom
 ```
 
-Clone and symlink:
+Clone and symlink
 
 ```bash
 git clone git@github.com:ksindi/atom-config.git
