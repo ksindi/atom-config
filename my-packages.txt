@@ -1,4 +1,3 @@
-atom-fuzzy-grep
 autocomplete-python
 busy-signal
 git-blame
