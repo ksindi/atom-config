@@ -11,8 +11,8 @@ sudo apt install atom
 Clone and symlink
 
 ```bash
-git clone git@github.com:ksindi/atom-config.git
-ln -s atom-config/ ~/.atom
+git clone git@github.com:ksindi/atom-config.git ~/.atom
+cd ~/.atom
 apm install --packages-file my-packages.txt
 ```
 
