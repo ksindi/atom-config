@@ -29,3 +29,5 @@ ls packages | xargs -n 1 echo | cut -d/ -f1 > my-packages.txt
 | --------------- | ----------- | ------------- |
 | Refactor        | ctrl+alt+u  | python-tools  |
 | Goto Definition | ctrl+alt+g  | python-tools  |
+
+https://github.com/nwinkler/atom-keyboard-shortcuts
