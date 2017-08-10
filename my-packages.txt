@@ -1,7 +1,7 @@
+atom-beautify
 autocomplete-python
 busy-signal
 git-blame
-git-time-machine
 highlight-selected
 intentions
 language-scala
@@ -10,6 +10,5 @@ linter-eslint
 linter-flake8
 linter-sass-lint
 linter-ui-default
-minimap
 pigments
 python-tools
