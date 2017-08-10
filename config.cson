@@ -9,13 +9,13 @@
       "Thumbs.db"
       "desktop.ini"
       "node_modules"
-      "dist"      
+      "dist"
     ]
     projectHome: "/home/kamil/git"
     telemetryConsent: "no"
   editor:
     fontSize: 17
-    tabLength: 4
+    tabLength: 2
   "exception-reporting":
     userId: "0a3ad9a2-631a-4674-8dd4-5df1369287c8"
   "one-dark-ui":
