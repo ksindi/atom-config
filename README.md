@@ -25,11 +25,12 @@ ls packages | xargs -n 1 echo | cut -d/ -f1 > my-packages.txt
 
 ## Useful shortcuts
 
-| Action          | Shortcut    | Source        |
-| --------------- | ----------- | ------------- |
-| Refactor        | ctrl+alt+u  | python-tools  |
-| Goto Definition | ctrl+alt+g  | python-tools  |
-| Beutify         | ctrl+alt+b  | atom-beautify |
-| Beutify         | ctrl+t      | atom-beautify |
+| Action          | Shortcut     | Source        |
+| --------------- | ------------ | ------------- |
+| Refactor        | ctrl+alt+u   | python-tools  |
+| Goto Definition | ctrl+alt+g   | python-tools  |
+| Beutify         | ctrl+alt+b   | atom-beautify |
+| Fuzzy file find | ctrl+t       | atom-beautify |
+| Find test       | ctrl+shift+f | atom          |
 
 https://github.com/nwinkler/atom-keyboard-shortcuts
