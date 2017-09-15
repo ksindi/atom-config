@@ -31,6 +31,6 @@ ls packages | xargs -n 1 echo | cut -d/ -f1 > my-packages.txt
 | Goto Definition | ctrl+alt+g   | python-tools  |
 | Beutify         | ctrl+alt+b   | atom-beautify |
 | Fuzzy file find | ctrl+t       | atom-beautify |
-| Find test       | ctrl+shift+f | atom          |
+| Find text       | ctrl+shift+f | atom          |
 
 https://github.com/nwinkler/atom-keyboard-shortcuts
