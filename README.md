@@ -8,6 +8,12 @@ sudo apt update
 sudo apt install atom
 ```
 
+or install by downloading from https://atom.io/
+
+```bash
+sudo dpkg -i atom-amd64.deb
+```
+
 Clone repo:
 
 ```bash
