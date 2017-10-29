@@ -38,6 +38,9 @@ ls packages | xargs -n 1 echo | cut -d/ -f1 > my-packages.txt
 | Beautify        | ctrl+alt+b   | atom-beautify |
 | Fuzzy file find | ctrl+t       | atom-beautify |
 | Find text       | ctrl+shift+f | atom          |
+| Copy line down  | ctrl+shift+d | atom          |
+| Move line up    | ctrl+up      | atom          |
+| Move line down  | ctrl+down    | atom          |
 | Uppercase       | ctrl+k+u     | atom          |
 | Lowercase       | ctrl+k+l     | atom          |
 
