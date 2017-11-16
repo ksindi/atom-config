@@ -4,11 +4,8 @@ busy-signal
 git-blame
 highlight-selected
 intentions
-language-scala
 linter
-linter-eslint
 linter-flake8
-linter-sass-lint
 linter-ui-default
 pigments
 python-tools
