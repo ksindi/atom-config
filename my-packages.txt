@@ -5,7 +5,6 @@ git-blame
 highlight-selected
 intentions
 linter
-linter-eslint
 linter-flake8
 linter-ui-default
 pigments
