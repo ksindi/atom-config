@@ -22,5 +22,9 @@
     fontSize: 16
   "tree-view":
     hideIgnoredNames: true
+  "linter-flake8":
+    projectConfigFile: [
+      ".flake8"
+    ]
   welcome:
     showOnStartup: false
