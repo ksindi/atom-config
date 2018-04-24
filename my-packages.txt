@@ -1,11 +1,15 @@
 atom-beautify
+atom-ide-ui
+autocomplete-java
 autocomplete-python
 busy-signal
 git-blame
 highlight-selected
+ide-java
 intentions
 linter
 linter-flake8
 linter-ui-default
+markdown-pdf
 pigments
 python-tools
