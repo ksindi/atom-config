@@ -12,5 +12,4 @@ linter-flake8
 linter-ui-default
 markdown-pdf
 pigments
-python-black
 python-tools
