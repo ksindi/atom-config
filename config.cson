@@ -1,5 +1,15 @@
 "*":
+  "atom-beautify":
+    general: {}
+  "atom-ide-ui":
+    use: {}
+  "autocomplete-java":
+    foldImports: false
+    refreshClassOnSave: false
   core:
+    disabledPackages: [
+      "linter"
+    ]
     ignoredNames: [
       ".git"
       ".hg"
@@ -14,17 +24,25 @@
     projectHome: "/home/kamil/git"
     telemetryConsent: "no"
   editor:
-    fontSize: 17
+    fontSize: 18
     tabLength: 2
   "exception-reporting":
     userId: "0a3ad9a2-631a-4674-8dd4-5df1369287c8"
-  "one-dark-ui":
-    fontSize: 16
-  "tree-view":
-    hideIgnoredNames: true
+  "git-blame":
+    columnWidth: 175
+  "ide-java":
+    errors:
+      incompleteClasspathSeverity: "ignore"
   "linter-flake8":
     projectConfigFile: [
       ".flake8"
     ]
+  "linter-ui-default": {}
+  "one-dark-ui":
+    fontSize: 16
+  "python-black":
+    lineLength: 110
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
